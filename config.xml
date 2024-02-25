@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.Mind.Games" version="0.0.14" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Mind Games</name>
+<widget id="com.Black.Jump" version="0.0.14" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Black Jump</name>
     <description>hello my team .</description>
     <author email="pg007135@gmail@gmail.com" href="https://siteplayerbrowser.blogspot.com/">developer  Team</author>
     <content src="index.html" />
